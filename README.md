@@ -143,5 +143,3 @@ If you encounter any issues or have questions:
 4. Open an issue on GitHub
 
 ---
-
-**Happy signing! 🤟**
